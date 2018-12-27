@@ -1,0 +1,5 @@
+Our code was based on the following Repo:
+
+https://github.com/parallella/parallella-examples/tree/master/game-of-life
+
+We also added timers and other features, but they were not recovered before the SD card was wiped.
